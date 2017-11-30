@@ -41,7 +41,7 @@
 
 #### CSS, JS文件的引入
 
-* 据HTML5规范, 在引入CSS和JS时不需要指明`type`，因为`text/css`和`text/javascript`
+根据HTML5规范, 在引入CSS和JS时不需要指明`type`，因为`text/css`和`text/javascript`
 
 示例：
 
