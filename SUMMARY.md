@@ -5,6 +5,6 @@
   * 变量
 * [CSS](css.md)
 * [HTML](html.md)
-* [ESlint](eslint.md)
 * [EditorConfig](editorconfig.md)
+* [ESlint](eslint.md)
 

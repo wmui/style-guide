@@ -1,3 +1,10 @@
-# First Chapter
+# 衣旗科技前端编码规范-Beta
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+#### 最佳原则
+
+无论团队有多少人合作开发，让代码看起来如出一人
+
+### 规范制定
+
+该手册由前端开发人员协商制定，有任何不合理或错误的地方可及时修订
+
