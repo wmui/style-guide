@@ -1,12 +1,12 @@
-# My Awesome Book
+### JS编码规范
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas
+中文版：
 
-`kvfdj`
+[https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)
 
-ht `jjgj`
+英文版：
 
-
+[https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 
 
