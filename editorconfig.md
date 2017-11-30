@@ -4,7 +4,7 @@
 
 `.editorconfig`
 
- 文件内容：
+文件内容：
 
 ```INI
 root = true
@@ -34,11 +34,7 @@ trim_trailing_whitespace = true
 
 参考：
 
-\[中文介绍\]\(http://www.alloyteam.com/2014/12/editor-config/\)
+[http://www.alloyteam.com/2014/12/editor-config/](http://www.alloyteam.com/2014/12/editor-config/)
 
-\[官方文档\]\(http://editorconfig.org/\)
-
-
-
-
+[http://editorconfig.org/](http://editorconfig.org/)
 
