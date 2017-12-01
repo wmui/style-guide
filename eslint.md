@@ -4,7 +4,7 @@
 
 #### 参考
 
-[http://eslint.cn/docs/user-guide/configuring](http://eslint.cn/docs/user-guide/configuring)
+[ESlint中文官网](http://eslint.cn/docs/user-guide/configuring)
 
 
 

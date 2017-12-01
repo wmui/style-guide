@@ -1,10 +1,10 @@
 # Summary
 
-* [17huo style guide](chapter1.md)
+* [style guide](README.md)
 * [命名规则](ming-ming-gui-ze.md)
 * [HTML](html.md)
 * [CSS](css.md)
-* [JavaScript](README.md)
+* [JavaScript](javascript.md)
 * [ESlint](eslint.md)
 * [EditorConfig](editorconfig.md)
 
